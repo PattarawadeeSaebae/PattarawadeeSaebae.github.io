@@ -1,6 +1,6 @@
 # PattarawadeeSaebae.github.io
-my page
-ภัทรวดี แซ่เบ้ <br>
-pattarawadee Saebae
-13610029
 ดีจ้า
+ภัทรวดี แซ่เบ้ <br>
+pattarawadee Saebae<br>
+13610029<br>
+
